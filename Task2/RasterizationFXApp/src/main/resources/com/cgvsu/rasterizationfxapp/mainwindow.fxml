@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.canvas.Canvas?>
+
+<AnchorPane fx:id="anchorPane" xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.cgvsu.rasterizationfxapp.RasterizationController">
+    <Canvas fx:id="canvas" width="800" height="600" AnchorPane.topAnchor="30.0"/>
+</AnchorPane>
