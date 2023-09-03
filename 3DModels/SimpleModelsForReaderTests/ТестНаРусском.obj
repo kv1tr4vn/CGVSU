@@ -1,0 +1,16 @@
+mtllib Δενθρ.mtl
+usemtl Δενθρ
+v 0 0 0
+v 1 0 0
+v 1 1 0
+v 0 1 0
+vt 0 0
+vt 1 0
+vt 0 1
+vt 1 0
+vt 1 1
+vt 0 1
+g "Group00"
+f 1/1 2/2 4/3
+g "Group01"
+f 2/4 3/5 4/6
