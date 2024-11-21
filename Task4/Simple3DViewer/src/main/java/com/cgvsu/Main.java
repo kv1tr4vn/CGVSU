@@ -5,4 +5,5 @@ public class Main {
         Simple3DViewer.main(args);
     }
     //it's i'm
+    int a = 9;
 }
